@@ -1,6 +1,6 @@
 # TNSDC-Generative-AI
 
-# Handwritten Number Recognition
+# Handwritten Number Recognition using keras and Tensorflow
 
 ## Overview
 
